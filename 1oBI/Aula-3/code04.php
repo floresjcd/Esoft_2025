@@ -9,18 +9,14 @@
 
 <body>
     <?php
-    // Exemplo 1: Variáveis
-    $nome = "Carlos"; // String
-    $idade = 25;    // Integer
-    $altura = 1.80; // Float
-    $isAtivo = true; // Boolean
-    $nulo = NULL; // NULL
-
-    echo "meu nome é: " . $nome . "<br>";
-    echo "minha idade é: " . $idade . "<br>";    
-    echo "minha altura é: " . $altura . "<br>";
-    echo "estou ativo? " . $isAtivo . "<br>";
-    echo "variável nula: " . $nulo . "<br>";  
+        $nome = "João"; // Variável string
+        $idade = 30; // Variável inteira
+        $altura = 1.75; // Variável float
+        $isEstudante = true; // Variável booleana
+        echo "<p>Nome: " . $nome . "</p>";
+        echo "<p>Idade: " . $idade . " anos</p>";
+        echo "<p>Altura: " . $altura . " metros</p>";
+        echo "<p>É estudante? " . ($isEstudante ? "Sim" : "Não") . "</p>";
     ?>
 
 </body>
