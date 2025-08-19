@@ -2,10 +2,11 @@
 <html>
 
     <head>
-        <title>Meu Primeiro PHP</title>
+        <title>Introdução ao PHP</title>
     </head>
 
     <body>
+        <h1> Operadores Aritméticos</h1>
         <?php
             $num1 = 20;
             $num2 = 7;
