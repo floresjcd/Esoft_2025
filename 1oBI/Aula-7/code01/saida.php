@@ -1,4 +1,5 @@
 <?php
     // saida.php
-    echo "Olá, " . $_GET['nome'] . " de " . $_GET['cidade'] . "!";
+    echo "Olá, " . $_GET['nome'] . " de " . $_GET['idade'] . "!";
+
 ?>
