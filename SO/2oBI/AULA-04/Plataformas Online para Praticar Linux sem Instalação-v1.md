@@ -1,5 +1,5 @@
 > **Disciplina:** Sistemas Operacionais  
-> **Tema:** Linux - Comandos Básicos  
+> **Tema:** Plataformas gratuitas com Terminal Linux Completo   
 > **Professor:** José Carlos Flores  
 > **Curso:** Engenharia de Software  
 > 
