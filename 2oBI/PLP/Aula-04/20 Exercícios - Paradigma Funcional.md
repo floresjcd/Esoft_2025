@@ -7,7 +7,7 @@
 ---
 
 
-# 20 Exercícios de Nível Iniciante - Paradigma Funcional
+# 20 Exercícios - Paradigma Funcional
 ## Linguagens: Haskell, Scala, Elixir e Clojure
 
 ---
