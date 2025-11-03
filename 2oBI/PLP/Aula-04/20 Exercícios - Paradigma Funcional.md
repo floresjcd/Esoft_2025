@@ -1,6 +1,6 @@
 
 > **Disciplina:** Paradigmas de Linguagens de Programação    
-> **Tema:** Paradigma Funcioinal   
+> **Tema:** Paradigma Funcional   
 > **Professor:** José Carlos Flores  
 > **Curso:** Engenharia de Software  
 > **Objetivo:** Exercícios focados nos conceitos fundamentais utilizando as **4 linguagens modernas** (Haskell, Scala, Elixir e Clojure).
