@@ -443,11 +443,10 @@ Execute com `python examples\08_deadlock_timeout.py`. As duas threads devem conc
 
 ## Referências
 
-[1]: https://docs.python.org/3/library/multiprocessing.html "Python multiprocessing — Process-based parallelism"
-[2]: https://docs.python.org/3/library/socket.html "Python socket — Low-level networking interface"
-[3]: https://docs.python.org/3/library/threading.html "Python threading — Thread-based parallelism"
-[4]: https://docs.python.org/3/library/signal.html "Python signal — Set handlers for asynchronous events"
-
+https://docs.python.org/3/library/multiprocessing.html "Python multiprocessing — Process-based parallelism"  
+https://docs.python.org/3/library/socket.html "Python socket — Low-level networking interface"  
+https://docs.python.org/3/library/threading.html "Python threading — Thread-based parallelism"  
+https://docs.python.org/3/library/signal.html "Python signal — Set handlers for asynchronous events"  
 
 ---
 
