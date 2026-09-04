@@ -316,5 +316,3 @@ Se você está começando a estudar o assunto, eu priorizaria estas cinco ideias
 Em uma frase:
 
 > **Parse Tree é a representação em forma de árvore da estrutura sintática de uma sequência, construída a partir das regras de uma gramática.**
-
-Se você entender essa ideia, fica muito mais fácil avançar para **gramáticas livres de contexto, derivação à esquerda/direita, análise sintática (parser), AST e ambiguidade gramatical**.
