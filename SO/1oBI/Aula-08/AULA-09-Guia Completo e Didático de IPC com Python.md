@@ -6,9 +6,6 @@
 > 
 ---
 
-
-# Guia Completo e Didático de IPC com Python
-
 ## Comunicação entre Processos para estudantes de Sistemas Operacionais
 
 **Professor:** José Carlos Flores  
